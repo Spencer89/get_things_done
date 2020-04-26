@@ -1,0 +1,86 @@
+body{
+    background-image: radial-gradient( circle farthest-corner at -3.1% -4.3%,  rgba(57,255,186,1) 0%, rgba(21,38,82,1) 90% );
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-family: helvetica;
+    font-weight: bolder;
+    font-size: 50px;
+   
+    
+}
+
+.btn-primary{
+    background-color: rgb(230, 210, 33);
+    border-radius:15px;
+    height:120px;
+    width:120px;
+    
+}
+
+.btn-primary:hover{
+    background-color: slateblue;
+}
+
+.input-group{
+    background-color:rgb(230, 210, 33);
+    color: whitesmoke;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+
+.input-group:hover{
+    background-color: slateblue;
+}
+
+.btn-outline-secondary{
+    background-color:rgb(230, 210, 33);
+}
+
+.btn-outline-secondary:hover{
+    background-color: slateblue;
+}
+
+h2,p{
+    font-size:100%;
+    font-weight:normal;
+    color: black;
+}
+
+
+.form-group {
+    margin-top: 20px;
+    color:#000;  
+}
+
+.form-control{
+    background-color: rgb(241, 243, 114);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+.btn-success{
+    background-color: rgb(98, 201, 128);
+}
+
+.btn-success:hover{
+    background-color: green;
+}
+
+.btn-danger{
+    background-color: rgb(209, 81, 49);   
+}
+
+.btn-danger:hover{
+    background-color: red;
+}
+
+
+
+
